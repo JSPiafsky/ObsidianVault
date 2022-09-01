@@ -1,0 +1,38 @@
+ - [ ] Break down tasks into list
+- [ ] Get Boxes
+- [x] Text Gryphen #Today
+- [ ] Night table
+	- [ ] Drawer 1 #Today
+	- [ ] Drawer 2
+- [ ] Organize Clothes
+	- [ ] Jackets/coat rack Items #Today
+	- [ ] Wardrobe
+	- [ ] Laundry
+- [ ] Sort and throw out items
+- [ ] Kitchen
+	- [ ] Espresso Cups #Today
+	- [ ] Mixing Bowls #Today
+	- [ ] Food
+		- [ ] Frozen
+		- [ ] Cupboard
+- [ ] Guitars
+	- [ ] Acoustic
+	- [ ] Epiphone
+		- [ ] Get Case #Today
+	- [x] Les vegas #Today
+	- [ ] amp #Today
+	- [ ] Cables #Today
+	- [x] Paraphernalia #Today
+- [x] Books #Today
+- [ ] Lamps
+- [ ] Bring Couch up
+- [ ] Move Piano Out
+- [ ] Fancy Table
+	- [ ] Jewelry
+	- [ ] Boxes
+- [x] Shoes #Today
+- [ ] Bike
+- [ ] Toiletries
+- [ ] Bed
+
+- [[Will]]
