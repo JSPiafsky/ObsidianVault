@@ -133,19 +133,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "e66b7779aebd39cc",
   "lastOpenFiles": [
+    "README.md",
     "Packing List.md",
     "Will.md",
     "Pack Room.md",
+    "2022-09-01.md",
+    "Driving School.md",
+    "Course stuff.md",
     "2022-W36.md",
     "2022-08-30.md",
-    "Course stuff.md",
-    "Untitled Kanban.md",
-    "Driving School.md",
-    "2022-08-27.md"
+    "Untitled Kanban.md"
   ]
 }

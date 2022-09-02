@@ -33,7 +33,7 @@
 
 #### Ikea/Furniture Store
 - [ ] Fan (small)
-- [ ] Twin (single) size sheets and Duvet + Cover
+- [x] Twin (single) size sheets and Duvet + Cover
 - [ ] Under bed storage containers, you can expect approximately 1ft of storage space under your bed (ikea)
 - [ ] Umbrella
 - [ ] <span style = "color:red">Basic dishes - bowl, coffee mug, water glass, basic cutlery and dish soap</span>
@@ -47,7 +47,7 @@
 - [ ] <span style = "color:red">Tupperware</span>
 
 #### Other
-- [ ] [[Pack Room]]
+- [x] [[Pack Room]]
 - [ ] New Celllphone
 - [ ] Contents insurance (recommended)
 - [ ] [[Course stuff]]
