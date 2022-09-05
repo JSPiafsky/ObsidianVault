@@ -19,7 +19,8 @@
 - [ ] Register For Frosh Activities?
 - [ ] Orient around Campus / Find Class Locations
 - [ ] Find out how to track watcard
-- [ ] Organize all relevant Waterloo websites into refrence file
+- [ ] Organize all relevant Waterloo websites into reference file
+- [ ] Do LEARN Courses
 
 ## From Toronto
 - [ ] Interface
