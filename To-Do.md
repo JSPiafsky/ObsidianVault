@@ -1,6 +1,7 @@
 
 ## Purchases
 - [ ] Laundry Bag
+- [ ] Laboratory Manuel
 - [ ] Paper Towel Stand
 - [ ] Toaster
 - [ ] Painting Hooks
@@ -21,6 +22,7 @@
 - [ ] Find out how to track watcard
 - [ ] Organize all relevant Waterloo websites into reference file
 - [ ] Do LEARN Courses
+	- [ ] WHMIS Training Get Printout
 
 ## From Toronto
 - [ ] Interface
