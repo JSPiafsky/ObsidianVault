@@ -7,8 +7,12 @@
         "id": "e66b7779aebd39cc",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "2022-09-07.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022-09-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022-09-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022-09-07.md"
+              }
             }
           },
           {
@@ -139,15 +147,15 @@
   },
   "active": "e66b7779aebd39cc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Driving School.md",
     "To-Do.md",
     "Packing for School.md",
     "Course stuff.md",
     "Packing List.md",
     "Pack Room.md",
     "README.md",
-    "Driving School.md",
     "Will.md",
-    "2022-09-01.md",
-    "2022-W36.md"
+    "2022-09-01.md"
   ]
 }
