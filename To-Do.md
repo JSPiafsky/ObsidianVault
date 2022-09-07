@@ -7,6 +7,7 @@
 - [ ] Toaster
 - [ ] Painting Hooks
 - [ ] Drying Rack
+- [ ] 45.7 x 61 x 0.5 centimeters
 - [ ] Fix iPad Screen
 - [ ] Get Case for iPad
 - [ ] Get Forks / Other Utensils
