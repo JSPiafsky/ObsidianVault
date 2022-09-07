@@ -1,6 +1,7 @@
 
 ## Purchases
 - [ ] Laundry Bag
+- [ ] Lock
 - [ ] Laboratory Manuel
 - [ ] Paper Towel Stand
 - [ ] Toaster
