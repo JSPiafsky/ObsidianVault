@@ -7,11 +7,9 @@
         "id": "e66b7779aebd39cc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "2022-09-07.md",
-            "mode": "source",
-            "source": false
+            "file": "Untitled Kanban.md"
           }
         }
       }
@@ -40,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#phys",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,12 +55,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8c148faf152576ab",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-09-07.md",
+                "file": "Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-09-07.md",
+                "file": "Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-09-07.md"
+                "file": "Untitled Kanban.md"
               }
             }
           },
@@ -145,17 +143,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e66b7779aebd39cc",
+  "active": "5c0762916742b400",
   "lastOpenFiles": [
     "Untitled.md",
+    "Untitled Kanban.md",
+    "2022-09-08.md",
+    "2022-09-07.md",
     "Driving School.md",
     "To-Do.md",
     "Packing for School.md",
     "Course stuff.md",
     "Packing List.md",
-    "Pack Room.md",
-    "README.md",
-    "Will.md",
-    "2022-09-01.md"
+    "Pack Room.md"
   ]
 }
