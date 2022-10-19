@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e66b7779aebd39cc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2022-09-08.md",
-            "mode": "source",
-            "source": false
+        "id": "7ad130ec31fae330",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e66b7779aebd39cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-09-08.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -31,7 +37,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -144,6 +152,9 @@
     ],
     "direction": "horizontal",
     "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "b686c449bf3210d4",
   "lastOpenFiles": [
